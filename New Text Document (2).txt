@@ -1,0 +1,52 @@
+ TEST STRATERGY
+Simplicity -->3
+Understandability -->5
+Suitability -->3
+Stability -->4
+ 2) Assess test factor that has to be considered for testing this software
+  a)Correctness--Integration testing
+  b)Authorization -- x--authentication(security)--integration
+  c)Continuity of processing--post uat
+  d)Service level
+  e)Access controls -- system testing
+  f)Methodology
+  g)Reliability -- this is one of the factor which comes in all the product -- user acceptance
+  h)Maintainable
+  i)Portable
+  j)Performance -- system testing
+  k)Ease of opearations
+  l)Integrity (how secured/accurate the data is)--system testing
+3)Assess drivers that would influence testing:
+ a)Authorization--individual tester (quality analyst)-- validation/black box
+ b)Correctness individual tester (quality analyst)-- validation/black box/dynamic
+ c)Continuity of processing--client/management-- verification
+ d)Access control--Tester(training)
+ e)Reliability --client/management
+ f)Performance--Tester
+ g)Integrity--Tester(training)
+
+TEST PLAN : Created by Lead/Senior Tester
+ 1) Test Item:(Application name)
+ 2)Software risk issues :security,performance ,testing at the browser(3 rd party like browsers shoot)
+platform,browser,configuration
+             
+          SCOPE:
+3)Features to be tested:register user,customer,admin functions,manager and member functions
+
+4)Features not to be tested:New version not to be tested(that is not part of scope)
+ 
+5)Approach : white box and black box(it contains code and UI)
+
+6)Test deliverables : Source code,test scenario,test plan,test case,test execution report,test report,defect report.
+ 
+7)Item  pass/fail criteria : If i find 5 minior bug, 1 minior bug with no critical/show stopper in this case i consider the application as pass criteria
+
+8)Suspension and resumption criteria : Show stoppers in application/non -availability of resource /when this is resolved
+
+9)Responsibilityn: Project manager,test lead,tester ,customer
+ 
+10)Staffing and Training Need : How many testers are required/which all the area you need training.
+
+11)Schedule :Time to complete the work(2 weeks)
+
+
